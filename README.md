@@ -1,2 +1,3 @@
 # apnacollagedemo
-1st repositries
+this is my first repository
+Author - Garvit Jain
